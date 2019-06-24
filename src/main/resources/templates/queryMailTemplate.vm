@@ -1,0 +1,44 @@
+
+<div>
+
+</div>
+</br>
+	<table align="center" style="border-collapse: collapse; font-family: Arial; font-size: 75%" cellpadding="5" width="90%">
+		<thead>
+		<tr>
+				<th bgcolor="#81AAD8" colspan="2" style="text-align: left">
+					<font color="#FFFFFF">The Following Query has been running from a long time:</font>
+				</th>
+		</tr>
+		</thead>
+					<tr>
+			<td align="left" style="border: 1px solid black; background: #CCCCCC; font-weight: bold; text-align: left">SID</td>
+			<td style="border: 1px solid black">${sid}</td>
+			</tr>
+					<tr>
+			<td align="left" style="border: 1px solid black; background: #CCCCCC; font-weight: bold; text-align: left">Serial Number</td>
+			<td style="border: 1px solid black">${serial}</td>
+			</tr>
+					<tr>
+			<td align="left" style="border: 1px solid black; background: #CCCCCC; font-weight: bold; text-align: left">Minutes Running</td>
+			<td style="border: 1px solid black">${time}</td>
+			</tr>
+					<tr>
+			
+			</tr>
+			
+			
+			
+			<tr>
+			<td align="left" style="border: 1px solid black; background: #CCCCCC; font-weight: bold; text-align: left">Sql Text</td>
+			<td style="border: 1px solid black">${sqlText}</td>
+			</tr>
+			
+			
+			     	<tr>
+				<td colspan="2" style="background: #81AAD8"> This is an Auto-Generated e-mail from DB Sql Automation</td>
+			</tr>
+			
+	</table>
+	
+	</br>
